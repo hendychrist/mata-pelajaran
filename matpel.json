@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Pendidikan Agama",
+    "versi": 1,
+    "guru": "Pak Udin",
+    "latitude": 14.604847,
+    "longitude": 13.886719
+  },
+  {
+    "name": "PPKn",
+    "versi": 2,
+    "guru": "Pak Dimas",
+    "latitude": 8.233237,
+    "longitude": 47.329102
+  },
+  {
+    "name": "Bahasa Indonesia",
+    "versi": 5,
+    "guru": "Bu Berta",
+    "latitude": 36.597889,
+    "longitude": -94.921875
+  },
+  {
+    "name": "Ilmu Pengetahuan Alam - IPA",
+    "versi": 4,
+    "guru": "Bu Lentera",
+    "latitude": 34.84,
+    "longitude": -105.53
+  },
+  {
+    "name": "Ilmu Pengetahuan Sosial - IPS",
+    "versi": 3,
+    "guru": "Pak tumpal",
+    "latitude": 25.2,
+    "longitude": -103.1
+  }
+]
