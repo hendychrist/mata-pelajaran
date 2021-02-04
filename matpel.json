@@ -1,36 +1,36 @@
 [
   {
     "name": "Pendidikan Agama",
-    "versi": 1,
-    "guru": "Pak Udin",
+    "price": 263300,
+    "stock": 515,
     "latitude": 14.604847,
     "longitude": 13.886719
   },
   {
-    "name": "PPKn",
-    "versi": 2,
-    "guru": "Pak Dimas",
+    "name": "Pendidikan Pancasila dan Kewarganegaraan - PPKN ",
+    "price": 300300,
+    "stock": 4,
     "latitude": 8.233237,
     "longitude": 47.329102
   },
   {
-    "name": "Bahasa Indonesia",
-    "versi": 5,
-    "guru": "Bu Berta",
+    "name": "Biologi - IPA",
+    "price": 5500,
+    "stock": 12,
     "latitude": 36.597889,
     "longitude": -94.921875
   },
   {
-    "name": "Ilmu Pengetahuan Alam - IPA",
-    "versi": 4,
-    "guru": "Bu Lentera",
+    "name": "Ilmu Pengetahuan Social - IPS",
+    "price": 3500,
+    "stock": 844,
     "latitude": 34.84,
     "longitude": -105.53
   },
   {
-    "name": "Ilmu Pengetahuan Sosial - IPS",
-    "versi": 3,
-    "guru": "Pak tumpal",
+    "name": "Ilmu pengetahuan alam - IPA",
+    "price": 49700,
+    "stock": 4,
     "latitude": 25.2,
     "longitude": -103.1
   }
